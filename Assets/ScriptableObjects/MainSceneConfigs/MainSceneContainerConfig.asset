@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac481212577367b40be3420bd729ec43, type: 3}
+  m_Name: MainSceneContainerConfig
+  m_EditorClassIdentifier: 
+  SoundManagerConfig:
+    EndShowProduct: {fileID: 8300000, guid: 3fc704295ef921647aadbc7a2a7754a0, type: 3}
+    StartShowProduct: {fileID: 8300000, guid: a0ad9b301f764b94bafe3c051df80c8b, type: 3}
+    SelectProduct: {fileID: 8300000, guid: d21903e237795d9498657f47ad5442fe, type: 3}
+    SwipeCarousel: {fileID: 8300000, guid: 1342c58856be2c141aff540a9453d797, type: 3}

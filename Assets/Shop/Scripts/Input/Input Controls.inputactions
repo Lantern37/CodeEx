@@ -1,0 +1,123 @@
+{
+    "name": "Input Controls",
+    "maps": [
+        {
+            "name": "Customer",
+            "id": "834834bb-ee90-49da-adf1-b9191e651bc2",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "ec7d607d-5493-48a4-b1a6-c89ba13e9242",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Touch",
+                    "type": "Button",
+                    "id": "811b86c0-bdd8-41df-aaed-e817029ed335",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "17e0e6d4-4637-4fd3-aa4d-5560c92b0368",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "626e76c7-a7fe-4d57-a0f0-7651740b088d",
+                    "path": "<Touchscreen>/touch1/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "User",
+            "id": "de20d9d3-2c00-4909-9cbf-8f7ebd81fd13",
+            "actions": [
+                {
+                    "name": "Select",
+                    "type": "PassThrough",
+                    "id": "9b1d8c7e-d979-4cd9-a67c-aac71d3c8e63",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Tap"
+                },
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "3deea328-51c0-4900-80d4-b7edd96e1a2b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Tap"
+                },
+                {
+                    "name": "Pointer",
+                    "type": "Value",
+                    "id": "cd80c3dc-1e80-4e31-bc67-9090b9b4a734",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a3d28b32-580f-4821-9c35-89f5c4e937ed",
+                    "path": "<Touchscreen>/primaryTouch/startPosition",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "04a78a5e-1d1c-4928-a0c8-c538855d5165",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MyScheme",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5c25b042-8886-49c3-b569-ce7fea99cc18",
+                    "path": "<Pointer>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pointer",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MyScheme",
+            "bindingGroup": "MyScheme",
+            "devices": []
+        }
+    ]
+}

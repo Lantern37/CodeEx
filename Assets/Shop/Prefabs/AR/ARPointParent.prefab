@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6850741039250021815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7476344578615966434}
+  - component: {fileID: 4430231635983971604}
+  - component: {fileID: 1494426998608626054}
+  m_Layer: 0
+  m_Name: ARPointParent
+  m_TagString: ARParent
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7476344578615966434
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6850741039250021815}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4430231635983971604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6850741039250021815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb898793194e03f4bb10dba03ec2cb70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_DestroyOnRemoval: 1
+--- !u!114 &1494426998608626054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6850741039250021815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7661543c7374e614abd6e5669b14c36c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PathPrefab: {fileID: 6917092647183047858, guid: fdd07f6e470169c42a152bc192cb9b13, type: 3}
+  m_PathItemPrefab: {fileID: 5526250358564723445, guid: 8a78ef91ecc8f8943b76659fddd47b32, type: 3}
+  m_CurePrefab: {fileID: 2392510066023207898, guid: f1eb856d28f072442aebbb8a16b6a1ed, type: 3}
+  m_BloomPrefab: {fileID: 1652675662263144008, guid: d72d829a70da300439e9614ff5f96a0f, type: 3}
+  m_PlugPrefab: {fileID: 5069649385955851644, guid: 2bdffa29e5b49de4b8d6de8820de51b7, type: 3}
+  m_AlmoraPrefab: {fileID: 3178738415240121562, guid: 1223cfc4b21c91b41b2c4a67c17d02c0, type: 3}
+  m_CaminoPrefab: {fileID: 7914890884719893353, guid: 5a3991d730316234dbc33a9ccf267001, type: 3}
+  m_CRUPrefab: {fileID: 8042432678058202507, guid: e1f7552a0bf34c34c830903aeef10906, type: 3}
+  m_PacificStonePrefab: {fileID: 8188405193998801450, guid: 0d40dd878edc63242bc043d366694ffd, type: 3}
+  m_PureVapePrefab: {fileID: 7023351963066044306, guid: c8ca04fa25db17c418bddd2524158039, type: 3}
+  m_RoveremediesPrefab: {fileID: 8041477512984092588, guid: f6273a3e67baed247bcc26508d85d6d8, type: 3}
+  m_StiiizyPrefab: {fileID: 8207466967936974737, guid: a94649c0c073ee749b1ad19a03288ce0, type: 3}

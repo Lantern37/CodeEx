@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://ar-dispensary-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">1055278210758</string>
+  <string name="google_storage_bucket" translatable="false">ar-dispensary.appspot.com</string>
+  <string name="project_id" translatable="false">ar-dispensary</string>
+  <string name="google_api_key" translatable="false">AIzaSyCUJyLrsrE45uImcfDI0n-WDkuwStVz_CM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUJyLrsrE45uImcfDI0n-WDkuwStVz_CM</string>
+  <string name="google_app_id" translatable="false">1:1055278210758:android:0d110324ad5abdca6841c7</string>
+  <string name="default_android_client_id" translatable="false">1055278210758-9uc6hcq8s3kvo839tselnst5q17tehpd.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1055278210758-gaa845hl85eh1gn8rcql5ihr769nhths.apps.googleusercontent.com</string>
+</resources>

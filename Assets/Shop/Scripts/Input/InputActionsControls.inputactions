@@ -1,0 +1,79 @@
+{
+    "name": "InputActionsControls",
+    "maps": [
+        {
+            "name": "User",
+            "id": "b6d2431d-362b-42ba-b801-1b173e90198b",
+            "actions": [
+                {
+                    "name": "TouchInput",
+                    "type": "PassThrough",
+                    "id": "f4bee1ae-7624-4540-ae73-5f1e5beea8aa",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Tap"
+                },
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "b89a4c03-ba17-4528-8bf9-8ec499b8579d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Tap"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "85e759a6-9c76-46a9-a1ca-845f263e0ba8",
+                    "path": "<Pointer>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TouchInput",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1268eeff-25fc-4a7b-868f-2eb71c8707c8",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "SelectItem",
+            "id": "e51ef02f-c4f9-4b69-9cac-79c415efefd5",
+            "actions": [
+                {
+                    "name": "SlectItem",
+                    "type": "PassThrough",
+                    "id": "3cf5cdda-bbe7-464d-b080-32bf11796474",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "87f8b43d-a0ea-4a9a-8b32-cea650bd1106",
+                    "path": "<Pointer>/touch",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SlectItem",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

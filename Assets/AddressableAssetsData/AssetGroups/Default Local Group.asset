@@ -1,0 +1,337 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e6803247ca7ee5241b815fa9b5e15eca
+  m_SerializeEntries:
+  - m_GUID: 8e5a7e1f7254d624d8332dcc98f7c825
+    m_Address: AlmoraFarm_Flower
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2784193322749785394, guid: 8e5a7e1f7254d624d8332dcc98f7c825, type: 3}
+    m_TargetAsset: {fileID: 2784193322749785394, guid: 8e5a7e1f7254d624d8332dcc98f7c825, type: 3}
+  - m_GUID: 5db783c4c636d3549addc7fb4dad72fb
+    m_Address: AlmoraFarm_PreRoll
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6230000023637645669, guid: 5db783c4c636d3549addc7fb4dad72fb, type: 3}
+    m_TargetAsset: {fileID: 6230000023637645669, guid: 5db783c4c636d3549addc7fb4dad72fb, type: 3}
+  - m_GUID: 1d195f862d23f334fb807060057da6e4
+    m_Address: vape_BD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1970144837692622898, guid: 1d195f862d23f334fb807060057da6e4, type: 3}
+    m_TargetAsset: {fileID: 1970144837692622898, guid: 1d195f862d23f334fb807060057da6e4, type: 3}
+  - m_GUID: 022c113b09af6184ea1423e6bb8b72ff
+    m_Address: vape_CHM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7682265038222024079, guid: 022c113b09af6184ea1423e6bb8b72ff, type: 3}
+    m_TargetAsset: {fileID: 7682265038222024079, guid: 022c113b09af6184ea1423e6bb8b72ff, type: 3}
+  - m_GUID: 517e1dc395976d14b98a5a42115c22d9
+    m_Address: vape_drop_BD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5704452383062903807, guid: 517e1dc395976d14b98a5a42115c22d9, type: 3}
+    m_TargetAsset: {fileID: 5704452383062903807, guid: 517e1dc395976d14b98a5a42115c22d9, type: 3}
+  - m_GUID: b749a3dbf6e959a49a14755fce0aa11d
+    m_Address: vape_live-resin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5699766512848429113, guid: b749a3dbf6e959a49a14755fce0aa11d, type: 3}
+    m_TargetAsset: {fileID: 5699766512848429113, guid: b749a3dbf6e959a49a14755fce0aa11d, type: 3}
+  - m_GUID: f1d3d834d7143d54db590a5c761f646f
+    m_Address: vape_one_BD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3998425151212432158, guid: f1d3d834d7143d54db590a5c761f646f, type: 3}
+    m_TargetAsset: {fileID: 3998425151212432158, guid: f1d3d834d7143d54db590a5c761f646f, type: 3}
+  - m_GUID: d444ee8d616391c4e9a5610cac8052dd
+    m_Address: vape_one_CHM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7215350609799927927, guid: d444ee8d616391c4e9a5610cac8052dd, type: 3}
+    m_TargetAsset: {fileID: 7215350609799927927, guid: d444ee8d616391c4e9a5610cac8052dd, type: 3}
+  - m_GUID: 7826b88728fa6ca44b9748515fd3f085
+    m_Address: vape_one_GC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6626968833256410296, guid: 7826b88728fa6ca44b9748515fd3f085, type: 3}
+    m_TargetAsset: {fileID: 6626968833256410296, guid: 7826b88728fa6ca44b9748515fd3f085, type: 3}
+  - m_GUID: 885c4e0d003a55f478dbb8584c6c0e35
+    m_Address: vape_one_GDP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 931899577230900355, guid: 885c4e0d003a55f478dbb8584c6c0e35, type: 3}
+    m_TargetAsset: {fileID: 931899577230900355, guid: 885c4e0d003a55f478dbb8584c6c0e35, type: 3}
+  - m_GUID: edcdd98ba588f9d429be394a65478179
+    m_Address: vape_one_GSC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3720589186241623114, guid: edcdd98ba588f9d429be394a65478179, type: 3}
+    m_TargetAsset: {fileID: 3720589186241623114, guid: edcdd98ba588f9d429be394a65478179, type: 3}
+  - m_GUID: 59a12963ccd1cab46b8345d69e7a62b1
+    m_Address: vape_one_JH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7025505683009918081, guid: 59a12963ccd1cab46b8345d69e7a62b1, type: 3}
+    m_TargetAsset: {fileID: 7025505683009918081, guid: 59a12963ccd1cab46b8345d69e7a62b1, type: 3}
+  - m_GUID: d07696c5194b2b24b9fa40060de3167d
+    m_Address: vape_one_KNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6091652174538193579, guid: d07696c5194b2b24b9fa40060de3167d, type: 3}
+    m_TargetAsset: {fileID: 6091652174538193579, guid: d07696c5194b2b24b9fa40060de3167d, type: 3}
+  - m_GUID: 2875ef6d035bf294fb7855ec5c80f1e9
+    m_Address: vape_one_MW
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5398889980698563414, guid: 2875ef6d035bf294fb7855ec5c80f1e9, type: 3}
+    m_TargetAsset: {fileID: 5398889980698563414, guid: 2875ef6d035bf294fb7855ec5c80f1e9, type: 3}
+  - m_GUID: 2ef5780645d9c6841944c306cf39d576
+    m_Address: vape_one_PEX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9083254377947014405, guid: 2ef5780645d9c6841944c306cf39d576, type: 3}
+    m_TargetAsset: {fileID: 9083254377947014405, guid: 2ef5780645d9c6841944c306cf39d576, type: 3}
+  - m_GUID: 0dd60d70abee9244ba31f8d58749b7da
+    m_Address: vape_one_SKY
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6081507502440455408, guid: 0dd60d70abee9244ba31f8d58749b7da, type: 3}
+    m_TargetAsset: {fileID: 6081507502440455408, guid: 0dd60d70abee9244ba31f8d58749b7da, type: 3}
+  - m_GUID: e59301999bf8a644dbddb4301df79fab
+    m_Address: vape_one_SLH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 499364489055860593, guid: e59301999bf8a644dbddb4301df79fab, type: 3}
+    m_TargetAsset: {fileID: 499364489055860593, guid: e59301999bf8a644dbddb4301df79fab, type: 3}
+  - m_GUID: aa2f28ca0cdb96f4d9491353f1c36dac
+    m_Address: Camino_MidnightBlueberry_100mg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6799199379539840788, guid: aa2f28ca0cdb96f4d9491353f1c36dac, type: 3}
+    m_TargetAsset: {fileID: 6799199379539840788, guid: aa2f28ca0cdb96f4d9491353f1c36dac, type: 3}
+  - m_GUID: 8bdbad30ea1d6064ca3e9900172874c7
+    m_Address: Camino_Pineapple_100mg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3606794430498750253, guid: 8bdbad30ea1d6064ca3e9900172874c7, type: 3}
+    m_TargetAsset: {fileID: 3606794430498750253, guid: 8bdbad30ea1d6064ca3e9900172874c7, type: 3}
+  - m_GUID: 802fe3c67d766d84fbe67669f3b4d19d
+    m_Address: Camino_WatermelonLemonade_100mg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5900546982204045012, guid: 802fe3c67d766d84fbe67669f3b4d19d, type: 3}
+    m_TargetAsset: {fileID: 5900546982204045012, guid: 802fe3c67d766d84fbe67669f3b4d19d, type: 3}
+  - m_GUID: fa8056061fdcb9c4584c452fc24e9545
+    m_Address: Camino_WildBerry_100mg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5605988337525924396, guid: fa8056061fdcb9c4584c452fc24e9545, type: 3}
+    m_TargetAsset: {fileID: 5605988337525924396, guid: fa8056061fdcb9c4584c452fc24e9545, type: 3}
+  - m_GUID: 3d83622987eea4740a1fdbd17ec2aacc
+    m_Address: Camino_WildCherry_100mg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6000181975226295062, guid: 3d83622987eea4740a1fdbd17ec2aacc, type: 3}
+    m_TargetAsset: {fileID: 6000181975226295062, guid: 3d83622987eea4740a1fdbd17ec2aacc, type: 3}
+  - m_GUID: 02b80c692aec03749b3394a81d5b7c5f
+    m_Address: CRU_Big Smooth3_5g
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7924253892528633300, guid: 02b80c692aec03749b3394a81d5b7c5f, type: 3}
+    m_TargetAsset: {fileID: 7924253892528633300, guid: 02b80c692aec03749b3394a81d5b7c5f, type: 3}
+  - m_GUID: a5151a699c2ecff44b9f6bf7606e5cf7
+    m_Address: CRU_Jack_3_5g
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3234444964062586585, guid: a5151a699c2ecff44b9f6bf7606e5cf7, type: 3}
+    m_TargetAsset: {fileID: 3234444964062586585, guid: a5151a699c2ecff44b9f6bf7606e5cf7, type: 3}
+  - m_GUID: 96b472e3743850e44b44f115effc69a3
+    m_Address: CRU_MendoBreath_3_5g
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6528329322484063911, guid: 96b472e3743850e44b44f115effc69a3, type: 3}
+    m_TargetAsset: {fileID: 6528329322484063911, guid: 96b472e3743850e44b44f115effc69a3, type: 3}
+  - m_GUID: 04ba33bad65ca184faf8e45839f2b0cb
+    m_Address: CRU_SuSilHa_3_5g
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4611892545389116113, guid: 04ba33bad65ca184faf8e45839f2b0cb, type: 3}
+    m_TargetAsset: {fileID: 4611892545389116113, guid: 04ba33bad65ca184faf8e45839f2b0cb, type: 3}
+  - m_GUID: 6b8fe9bdda751fb499b009ab99b84a0b
+    m_Address: CRU_XJ13_3_5g
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3300253080454651150, guid: 6b8fe9bdda751fb499b009ab99b84a0b, type: 3}
+    m_TargetAsset: {fileID: 3300253080454651150, guid: 6b8fe9bdda751fb499b009ab99b84a0b, type: 3}
+  - m_GUID: acaf397810b224647bf5633dfd4cddce
+    m_Address: rosin_Purevape_BD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6077092871959349681, guid: acaf397810b224647bf5633dfd4cddce, type: 3}
+    m_TargetAsset: {fileID: 6077092871959349681, guid: acaf397810b224647bf5633dfd4cddce, type: 3}
+  - m_GUID: d5f256aa32df8f74295f6721066db3ed
+    m_Address: rosin_Purevape_CK
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4124817691546207996, guid: d5f256aa32df8f74295f6721066db3ed, type: 3}
+    m_TargetAsset: {fileID: 4124817691546207996, guid: d5f256aa32df8f74295f6721066db3ed, type: 3}
+  - m_GUID: c76b8fe91ba06b3499f759a7bb2c7fb4
+    m_Address: rosin_Purevape_DP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7512616438101198215, guid: c76b8fe91ba06b3499f759a7bb2c7fb4, type: 3}
+    m_TargetAsset: {fileID: 7512616438101198215, guid: c76b8fe91ba06b3499f759a7bb2c7fb4, type: 3}
+  - m_GUID: 8e793a27c503ffa4cbfb975ddd6b6b3f
+    m_Address: rosin_Purevape_GC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 925957624602500972, guid: 8e793a27c503ffa4cbfb975ddd6b6b3f, type: 3}
+    m_TargetAsset: {fileID: 925957624602500972, guid: 8e793a27c503ffa4cbfb975ddd6b6b3f, type: 3}
+  - m_GUID: 18f65f56e2553ab41a97d8c1f9ab153d
+    m_Address: rosin_Purevape_GP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4454729891966318429, guid: 18f65f56e2553ab41a97d8c1f9ab153d, type: 3}
+    m_TargetAsset: {fileID: 4454729891966318429, guid: 18f65f56e2553ab41a97d8c1f9ab153d, type: 3}
+  - m_GUID: d689c7f46f25cfb4783094941a6dab09
+    m_Address: rosin_Purevape_JH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1322455320854849389, guid: d689c7f46f25cfb4783094941a6dab09, type: 3}
+    m_TargetAsset: {fileID: 1322455320854849389, guid: d689c7f46f25cfb4783094941a6dab09, type: 3}
+  - m_GUID: 8ed9e7304dedcc346aa1a80b40c3f28f
+    m_Address: rosin_Purevape_LB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6638170376245674582, guid: 8ed9e7304dedcc346aa1a80b40c3f28f, type: 3}
+    m_TargetAsset: {fileID: 6638170376245674582, guid: 8ed9e7304dedcc346aa1a80b40c3f28f, type: 3}
+  - m_GUID: 93c0222c5a55eab4ea2575a74c410e1c
+    m_Address: rosin_Purevape_LH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 82380550231205811, guid: 93c0222c5a55eab4ea2575a74c410e1c, type: 3}
+    m_TargetAsset: {fileID: 82380550231205811, guid: 93c0222c5a55eab4ea2575a74c410e1c, type: 3}
+  - m_GUID: 542dd0c3d4359d047a93f1c2d813fefe
+    m_Address: rosin_Purevape_MK
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9172723411630116314, guid: 542dd0c3d4359d047a93f1c2d813fefe, type: 3}
+    m_TargetAsset: {fileID: 9172723411630116314, guid: 542dd0c3d4359d047a93f1c2d813fefe, type: 3}
+  - m_GUID: c86965ccff65b7b47820f27595bc0f3a
+    m_Address: rosin_Purevape_OG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1122889080304734113, guid: c86965ccff65b7b47820f27595bc0f3a, type: 3}
+    m_TargetAsset: {fileID: 1122889080304734113, guid: c86965ccff65b7b47820f27595bc0f3a, type: 3}
+  - m_GUID: 6d620fe056276b14b965cb01a4384d53
+    m_Address: rosin_Purevape_PE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2073680053719433308, guid: 6d620fe056276b14b965cb01a4384d53, type: 3}
+    m_TargetAsset: {fileID: 2073680053719433308, guid: 6d620fe056276b14b965cb01a4384d53, type: 3}
+  - m_GUID: 8540b63886e060748934af77eb469f62
+    m_Address: rosin_Purevape_PP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2402344836344012034, guid: 8540b63886e060748934af77eb469f62, type: 3}
+    m_TargetAsset: {fileID: 2402344836344012034, guid: 8540b63886e060748934af77eb469f62, type: 3}
+  - m_GUID: c087fd76002e0ab42a6dbd7cd6837e57
+    m_Address: rosin_Purevape_SC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8864154182986615704, guid: c087fd76002e0ab42a6dbd7cd6837e57, type: 3}
+    m_TargetAsset: {fileID: 8864154182986615704, guid: c087fd76002e0ab42a6dbd7cd6837e57, type: 3}
+  - m_GUID: 0f50af0dab517d84da6fe81e7f38ac19
+    m_Address: rosin_Purevape_WC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2587259716970663150, guid: 0f50af0dab517d84da6fe81e7f38ac19, type: 3}
+    m_TargetAsset: {fileID: 2587259716970663150, guid: 0f50af0dab517d84da6fe81e7f38ac19, type: 3}
+  - m_GUID: 09c3f1df00cccec4796eca45c7c64065
+    m_Address: rosin_Purevape_ZK
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2795198707618663255, guid: 09c3f1df00cccec4796eca45c7c64065, type: 3}
+    m_TargetAsset: {fileID: 2795198707618663255, guid: 09c3f1df00cccec4796eca45c7c64065, type: 3}
+  - m_GUID: d8c4432a34299c742a4195cb90992ec5
+    m_Address: Stiiizy_Cartridge_BirthdayCake_1g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 142269140550544257, guid: d8c4432a34299c742a4195cb90992ec5, type: 3}
+    m_TargetAsset: {fileID: 142269140550544257, guid: d8c4432a34299c742a4195cb90992ec5, type: 3}
+  - m_GUID: 9e927a7dd63bfc14899c318b2dc233af
+    m_Address: Stiiizy_Cartridge_BirthdayCake_05g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4500838256742505836, guid: 9e927a7dd63bfc14899c318b2dc233af, type: 3}
+    m_TargetAsset: {fileID: 4500838256742505836, guid: 9e927a7dd63bfc14899c318b2dc233af, type: 3}
+  - m_GUID: da09154393340c14e8f0af5400fb8cc9
+    m_Address: Stiiizy_Cartridge_Biscotti_1g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2462953589794587485, guid: da09154393340c14e8f0af5400fb8cc9, type: 3}
+    m_TargetAsset: {fileID: 2462953589794587485, guid: da09154393340c14e8f0af5400fb8cc9, type: 3}
+  - m_GUID: d2b99cc2c49f37e40b7be0a261c8d9cb
+    m_Address: Stiiizy_Cartridge_Biscotti_05g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5972760527124108380, guid: d2b99cc2c49f37e40b7be0a261c8d9cb, type: 3}
+    m_TargetAsset: {fileID: 5972760527124108380, guid: d2b99cc2c49f37e40b7be0a261c8d9cb, type: 3}
+  - m_GUID: 839888f447e980f40bb1683a14a0c9eb
+    m_Address: Stiiizy_Cartridge_BlueBurst_1g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2759913344227741106, guid: 839888f447e980f40bb1683a14a0c9eb, type: 3}
+    m_TargetAsset: {fileID: 2759913344227741106, guid: 839888f447e980f40bb1683a14a0c9eb, type: 3}
+  - m_GUID: ceb26c666fd242d4fa7d60360b12440a
+    m_Address: Stiiizy_Cartridge_BlueBurst_05g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5111835911988234412, guid: ceb26c666fd242d4fa7d60360b12440a, type: 3}
+    m_TargetAsset: {fileID: 5111835911988234412, guid: ceb26c666fd242d4fa7d60360b12440a, type: 3}
+  - m_GUID: c642dcc8b7446d343b71673bd138020e
+    m_Address: Stiiizy_Cartridge_BlueDream_1g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7631439917143419638, guid: c642dcc8b7446d343b71673bd138020e, type: 3}
+    m_TargetAsset: {fileID: 7631439917143419638, guid: c642dcc8b7446d343b71673bd138020e, type: 3}
+  - m_GUID: a8e3a923381c58a4b8d19c9573a0ab05
+    m_Address: Stiiizy_Cartridge_BlueDream_05g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6560001326985445184, guid: a8e3a923381c58a4b8d19c9573a0ab05, type: 3}
+    m_TargetAsset: {fileID: 6560001326985445184, guid: a8e3a923381c58a4b8d19c9573a0ab05, type: 3}
+  - m_GUID: 948f8b5103514ca42a1991143d31dc6f
+    m_Address: Stiiizy_Cartridge_DosSiDos_1g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 733571951972332916, guid: 948f8b5103514ca42a1991143d31dc6f, type: 3}
+    m_TargetAsset: {fileID: 733571951972332916, guid: 948f8b5103514ca42a1991143d31dc6f, type: 3}
+  - m_GUID: 5a0df280b91231040b5c290461da0250
+    m_Address: Stiiizy_Cartridge_DosSiDos_05g_(Clone)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4135171504335691169, guid: 5a0df280b91231040b5c290461da0250, type: 3}
+    m_TargetAsset: {fileID: 4135171504335691169, guid: 5a0df280b91231040b5c290461da0250, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e77d050aeb1be264a8e04d6e243e8a37, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bfc65d6d57dcbcc4e86020cd9bf2d963, type: 2}
+    - {fileID: 11400000, guid: 2a059e3931fb5114384b5628fd6c384b, type: 2}

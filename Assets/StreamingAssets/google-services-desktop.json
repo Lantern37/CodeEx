@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1055278210758",
+    "firebase_url": "https://ar-dispensary-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ar-dispensary",
+    "storage_bucket": "ar-dispensary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055278210758:android:0d110324ad5abdca6841c7",
+        "android_client_info": {
+          "package_name": "com.engenious.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055278210758-9uc6hcq8s3kvo839tselnst5q17tehpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engenious.ar",
+            "certificate_hash": "833828026dc2dd7a8ea3dead1b3e5275bbbe9d07"
+          }
+        },
+        {
+          "client_id": "1055278210758-gaa845hl85eh1gn8rcql5ihr769nhths.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJyLrsrE45uImcfDI0n-WDkuwStVz_CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055278210758-gaa845hl85eh1gn8rcql5ihr769nhths.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055278210758-maoje8krjil5d7s2ejg00jiu584qfqkg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.engenious.ar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
